@@ -38,13 +38,13 @@ Binary classification model to detect Drug-Drug Interactions (DDI) in patient me
 | AUC-ROC | TBD |
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](outputs/confusion_matrix.png)
 
 ### ROC Curve
-![ROC Curve](roc_curve.png)
+![ROC Curve](outputs/roc_curve.png)
 
 ### Odds Ratios
-![Odds Ratios](odds_ratios.png)
+![Odds Ratios](outputs/odds_ratios.png)
 
 ---
 

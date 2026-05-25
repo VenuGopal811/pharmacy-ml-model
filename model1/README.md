@@ -36,13 +36,13 @@ Binary classification model to predict Adverse Drug Reactions (ADR) in patients 
 | AUC-ROC | 0.5375 |
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](outputs/confusion_matrix.png)
 
 ### ROC Curve
-![ROC Curve](roc_curve.png)
+![ROC Curve](outputs/roc_curve.png)
 
 ### Odds Ratios
-![Odds Ratios](odds_ratios.png)
+![Odds Ratios](outputs/odds_ratios.png)
 
 ---
 
